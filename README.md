@@ -6,10 +6,12 @@
 
 ### Skills 👨🏼‍💻
 - Languages: C++, C#, C, Python
+- Frameworks: Microsoft .NET
 - IDE: Unity, VS 2019, PyCharm
 
 ### Some skills 🤷🏼
 - Languages: HTML/CSS/JS, MatLab, VHDL, SQL, Lua
+- Frameworks: Vue.js
 
 ### Contacts ✉️
 - E-mail: savushkin-daniil-99@yandex.ru
