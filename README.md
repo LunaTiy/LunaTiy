@@ -5,9 +5,9 @@
 - Internet technologies
 
 ### Skills 👨🏼‍💻
-- Languages: C++, C#, C, Python
-- Frameworks: Microsoft .NET
-- IDE: Unity, VS 2019, PyCharm
+- Languages: C#, C, C++, Python
+- Frameworks: Microsoft .NET, xUnit .NET
+- IDE: Unity, VS, PyCharm
 
 ### Some skills 🤷🏼
 - Languages: HTML/CSS/JS, MatLab, VHDL, SQL, Lua
