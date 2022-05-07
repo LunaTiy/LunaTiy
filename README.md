@@ -6,7 +6,7 @@
 
 ### Skills 👨🏼‍💻
 - Languages: C#, C, C++, Python
-- Frameworks: Microsoft .NET, xUnit .NET
+- Frameworks: Microsoft .NET Core, xUnit .NET
 - IDE: Unity, VS, PyCharm
 
 ### Some skills 🤷🏼
