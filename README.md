@@ -15,7 +15,7 @@
 
 ### Contacts ✉️
 - E-mail: savushkin-daniil-99@yandex.ru
-- VK: daniil_savushkin
+- Telegram: @LunaTiy
 
 <p>
   <img 
