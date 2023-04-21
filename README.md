@@ -6,8 +6,9 @@
 
 ### Skills 👨🏼‍💻
 - Languages: C#, C, C++, Python
-- Frameworks: Microsoft .NET Core, xUnit .NET, NUnit .NET
-- IDE: Unity, VS, Rider
+- Frameworks: Microsoft .NET Core / .NET Framework, xUnit .NET / NUnit .NET, WPF, Windows Forms, Zenject, Unity Webview, Firebase
+- IDE: Rider, VS
+- Game Engine: Unity
 
 ### Some skills 🤷🏼
 - Languages: HTML/CSS/JS, MatLab, VHDL, SQL, Lua
