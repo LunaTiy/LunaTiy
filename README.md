@@ -24,7 +24,7 @@
 - Game Engine: Unity
 
 ### Basic knowledge 🤷🏼
-- Languages: HTML/CSS/JS, MatLab, VHDL, SQL, Lua
+- Languages: HTML/CSS/JS, C/C++
 - Frameworks: React.js, Vue.js
 
 ### Contacts ✉️
