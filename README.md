@@ -9,10 +9,11 @@
 - Languages: Python, C#
 - Frameworks / Library / Techonlogies:
   - Backend Frameworks: FastAPI, Django 4, ASP.NET
+  - Python Frameworks: aiohttp / asyncio, Pydantic v2, Ruff, pip / pdm, pydantic-settings and etc.
   - .NET Frameworks: .NET Core, .NET Framework
   - Databases: PostgreSQL, MS SQL, Firebase
   - Cache and broker: Redis, RabbitMq
-  - ORM: SqlAlchemy / Alembic, Entity Framework
+  - ORM: SqlAlchemy 2 / Alembic, Entity Framework
   - Docker, Docker Compose, k3s (basic)
   - DevOps: Gitlab, Gitlab CI/CD, TeamCity
   - Design Patterns: OOP, SOLID, DRY, KISS
