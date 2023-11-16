@@ -10,7 +10,7 @@
 - Frameworks / Library / Techonlogies:
   - Backend Frameworks: FastAPI, Django 4, ASP.NET
   - .NET Frameworks: .NET Core, .NET Framework
-  - Databases: PostgreSQL, MS SQL
+  - Databases: PostgreSQL, MS SQL, Firebase
   - Cache and broker: Redis, RabbitMq
   - ORM: SqlAlchemy / Alembic, Entity Framework
   - Docker, Docker Compose, k3s (basic)
@@ -18,7 +18,7 @@
   - Design Patterns: OOP, SOLID, DRY, KISS
   - Testing: pytest / unittest, xUnit .NET / NUnit
   - Desktop Development: WPF, Windows Forms
-  - Unity Frameworks: Unity Engine, Zenject, Unity Webview, Firebase
+  - Unity Frameworks: Unity Engine, Zenject, Unity Webview, Unity Firebase
 - IDE: Pychram, Rider, VS, VScode
 - Game Engine: Unity
 
