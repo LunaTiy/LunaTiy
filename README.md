@@ -1,22 +1,37 @@
 # Hi there, I'm Daniil 👋
 ### I’m interested in 🎓
+- Back-end Development / API Development
+- Software Architecture
+- Networks / Internet Technologies / Communication Interfaces
 - Game Development
-- Communication interfaces
-- Internet technologies
 
-### Skills 👨🏼‍💻
-- Languages: C#, C, C++, Python
-- Frameworks: Microsoft .NET Core / .NET Framework, xUnit .NET / NUnit .NET, WPF, Windows Forms, Zenject, Unity Webview, Firebase
-- IDE: Rider, VS
+### My Skills 👨🏼‍💻
+- Languages: Python, C#
+- Frameworks / Library / Techonlogies:
+  - Backend Frameworks: FastAPI, Django 4, ASP.NET
+  - .NET Frameworks: .NET Core, .NET Framework
+  - Databases: PostgreSQL, MS SQL
+  - Cache and broker: Redis, RabbitMq
+  - ORM: SqlAlchemy / Alembic, Entity Framework
+  - Docker, Docker Compose, k3s (basic)
+  - DevOps: Gitlab, Gitlab CI/CD, TeamCity
+  - Design Patterns: OOP, SOLID, DRY, KISS
+  - Testing: pytest / unittest, xUnit .NET / NUnit
+  - Desktop Development: WPF, Windows Forms
+  - Unity Frameworks: Unity Engine, Zenject, Unity Webview, Firebase
+- IDE: Pychram, Rider, VS, VScode
 - Game Engine: Unity
 
-### Some skills 🤷🏼
+### Basic knowledge 🤷🏼
 - Languages: HTML/CSS/JS, MatLab, VHDL, SQL, Lua
-- Frameworks: Vue.js
+- Frameworks: React.js, Vue.js
 
 ### Contacts ✉️
-- E-mail: savushkin-daniil-99@yandex.ru
-- Telegram: @LunaTiy
+- E-mail: savushkin.d@dev-system.ru (savushkin-daniil-99@yandex.ru)
+- Telegram: @LunaTiy (https://t.me/LunaTiy)
+- WhatsUp: +7 (911) 790-69-12
+- Mobile phone number: +7 (911) 790-69-12
+- LeetCode: https://leetcode.com/LunaTiy/
 
 <p>
   <img 
