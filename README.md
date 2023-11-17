@@ -30,7 +30,7 @@
 ### Contacts ✉️
 - E-mail: savushkin.d@dev-system.ru (savushkin-daniil-99@yandex.ru)
 - Telegram: @LunaTiy (https://t.me/LunaTiy)
-- WhatsUp: +7 (911) 790-69-12
+- WhatsApp: +7 (911) 790-69-12
 - Mobile phone number: +7 (911) 790-69-12
 - LeetCode: https://leetcode.com/LunaTiy/
 
