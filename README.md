@@ -2,30 +2,16 @@
 ### I’m interested in 🎓
 - Back-end Development / API Development
 - Software Architecture
+- CI/CD, Kubernetes
 - Networks / Internet Technologies / Communication Interfaces
 - Game Development
 
 ### My Skills 👨🏼‍💻
-- Languages: Python, C#
-- Frameworks / Library / Techonlogies:
-  - Backend Frameworks: FastAPI, Django 4, ASP.NET
-  - Python Frameworks: aiohttp / asyncio, Pydantic v2, Ruff, pip / pdm, pydantic-settings and etc.
-  - .NET Frameworks: .NET Core, .NET Framework
-  - Databases: PostgreSQL, MS SQL, Firebase
-  - Cache and broker: Redis, RabbitMq
-  - ORM: SqlAlchemy 2 / Alembic, Entity Framework
-  - Docker, Docker Compose, k3s (basic)
-  - DevOps: Gitlab, Gitlab CI/CD, TeamCity
-  - Design Patterns: OOP, SOLID, DRY, KISS
-  - Testing: pytest / unittest, xUnit .NET / NUnit
-  - Desktop Development: WPF, Windows Forms
-  - Unity Frameworks: Unity Engine, Zenject, Unity Webview, Unity Firebase
-- IDE: Pychram, Rider, VS, VScode
+- Languages: Go, Python, C#
 - Game Engine: Unity
 
 ### Basic knowledge 🤷🏼
-- Languages: HTML/CSS/JS, C/C++
-- Frameworks: React.js, Vue.js
+- Languages: HTML/CSS/JS, C/C++, PHP
 
 ### Contacts ✉️
 - E-mail: savushkin.d@dev-system.ru (savushkin-daniil-99@yandex.ru)
